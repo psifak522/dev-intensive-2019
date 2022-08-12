@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 23
 
     defaultConfig {
         applicationId "ru.skillbranch.devintensive"
         minSdk 23
-        targetSdk 32
+        targetSdk 23
         versionCode 1
         versionName "1.0"
 
